@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://angular2-hn.firebaseapp.com">
-    <img alt="PinWork App Logo" title="Angular 2 PinWork App" src="http://res.cloudinary.com/mally-in/image/upload/v1486182326/Screen_Shot_2017-02-04_at_9.51.23_AM_jyckax.png" width="200">
-  </a>
-</p>
 
 <p align="center">
   PinWork built with ❤️ using Angular2, ngrx store, observables and reactive forms.
