@@ -36,12 +36,4 @@ $ npm install
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Author
 
- **[Pankaj Kumar Rawat]()**
-
- - [github/pkrawat1](https://github.com/pkrawat1)
- - [twitter/pkrawat1](https://twitter.com/pkrawat1)
- 
-## License
-[MIT License](LICENSE.md)
